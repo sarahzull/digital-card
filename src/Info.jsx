@@ -1,6 +1,6 @@
 import React from "react";
 import myImage from "./photo.png";
-import "./info.css";
+import "./Info.css";
 
 export default function Info() {
   return (
